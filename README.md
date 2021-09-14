@@ -1,6 +1,6 @@
 # Google Sheet Addon Guide
 Documentation for Google Sheet Add-on for SerpApi
-https://chrome.google.com/webstore/detail/pcmlccdlgbbcpkimkmepgjpegkldoejo
+https://workspace.google.com/marketplace/app/serpapi_search_engine_results_and_ranks/562749385480
 
 Status: This documentation is under development.
 
